@@ -1,0 +1,22 @@
+﻿
+
+
+ feil med top level statement / ny .NET 6 syntax
+ namespace
+ 
+ 
+ private
+ public 
+ internal
+ protected
+ using
+ void 
+ System 
+
+ level
+ 
+ generic
+
+
+ class
+ static
