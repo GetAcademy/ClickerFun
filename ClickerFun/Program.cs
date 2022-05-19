@@ -1,6 +1,5 @@
 ﻿using ClickerFun;
 
-// Pause til 13:46
 
 //var clickers = Enumerable
 //    .Range(65, 26)
